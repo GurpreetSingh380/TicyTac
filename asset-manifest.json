@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/TicyTac/static/css/main.4cc2ab15.css",
+    "main.js": "/TicyTac/static/js/main.84fea7b1.js",
+    "static/js/787.18c6e707.chunk.js": "/TicyTac/static/js/787.18c6e707.chunk.js",
+    "static/media/logo.png": "/TicyTac/static/media/logo.966b8ad4ea0da15e96c1.png",
+    "static/media/cross.png": "/TicyTac/static/media/cross.6da7150d462779089ec6.png",
+    "index.html": "/TicyTac/index.html",
+    "main.4cc2ab15.css.map": "/TicyTac/static/css/main.4cc2ab15.css.map",
+    "main.84fea7b1.js.map": "/TicyTac/static/js/main.84fea7b1.js.map",
+    "787.18c6e707.chunk.js.map": "/TicyTac/static/js/787.18c6e707.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cc2ab15.css",
+    "static/js/main.84fea7b1.js"
+  ]
+}
